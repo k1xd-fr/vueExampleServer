@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_our_way_our_ways",
+  "info": {
+    "displayName": "OurWay",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "OurWayCard": {
+      "displayName": "OurWayCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.our-way-card"
+    }
+  }
+}

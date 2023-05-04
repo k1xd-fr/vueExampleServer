@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_purchase_purchases",
+  "info": {
+    "displayName": "Purchase",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "PurchaseCard": {
+      "displayName": "PurchaseCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.purchase-card"
+    },
+    "List": {
+      "displayName": "PurchaseCardList",
+      "type": "component",
+      "repeatable": true,
+      "component": "list.purchase-card-list"
+    },
+    "span": {
+      "type": "string"
+    }
+  }
+}

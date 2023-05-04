@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_list_purchase_card_lists",
+  "info": {
+    "displayName": "PurchaseCardList"
+  },
+  "options": {},
+  "attributes": {
+    "list1": {
+      "type": "string"
+    },
+    "list2": {
+      "type": "string"
+    },
+    "list3": {
+      "type": "string"
+    },
+    "list4": {
+      "type": "string"
+    }
+  }
+}

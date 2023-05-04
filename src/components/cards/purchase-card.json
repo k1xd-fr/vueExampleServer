@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_cards_purchase_cards",
+  "info": {
+    "displayName": "PurchaseCard"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "num": {
+      "type": "biginteger"
+    },
+    "btn": {
+      "type": "string"
+    }
+  }
+}

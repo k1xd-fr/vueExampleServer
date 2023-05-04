@@ -1,0 +1,82 @@
+{
+  "kind": "singleType",
+  "collectionName": "glavnayas",
+  "info": {
+    "singularName": "glavnaya",
+    "pluralName": "glavnayas",
+    "displayName": "Главная",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Wrapper": {
+      "displayName": "MainWrapper",
+      "type": "component",
+      "repeatable": false,
+      "component": "wrappere.main-wrapper"
+    },
+    "MainInfo": {
+      "displayName": "MainInfo",
+      "type": "component",
+      "repeatable": false,
+      "component": "main-info.main-info"
+    },
+    "OurWay": {
+      "displayName": "OurWay",
+      "type": "component",
+      "repeatable": false,
+      "component": "our-way.our-way"
+    },
+    "GetFreeConsultation": {
+      "displayName": "GetFreeConsultation",
+      "type": "component",
+      "repeatable": false,
+      "component": "get-free-consultation.get-free-consultation"
+    },
+    "features": {
+      "displayName": "features",
+      "type": "component",
+      "repeatable": false,
+      "component": "features.features"
+    },
+    "GetYoursToday": {
+      "displayName": "GetYoursToday",
+      "type": "component",
+      "repeatable": false,
+      "component": "get-yours-today.get-yours-today"
+    },
+    "personExp": {
+      "displayName": "personExp",
+      "type": "component",
+      "repeatable": false,
+      "component": "person-exp.person-exp"
+    },
+    "Purchase": {
+      "displayName": "Purchase",
+      "type": "component",
+      "repeatable": false,
+      "component": "purchase.purchase"
+    },
+    "Procces": {
+      "displayName": "Procces",
+      "type": "component",
+      "repeatable": false,
+      "component": "procces.procces"
+    },
+    "Logos": {
+      "displayName": "Logos",
+      "type": "component",
+      "repeatable": false,
+      "component": "logos.logos"
+    },
+    "Form": {
+      "displayName": "Form",
+      "type": "component",
+      "repeatable": false,
+      "component": "form.form"
+    }
+  }
+}

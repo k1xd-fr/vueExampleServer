@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_get_yours_today_get_yours_todays",
+  "info": {
+    "displayName": "GetYoursToday",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "list": {
+      "displayName": "ListGetYoursToday",
+      "type": "component",
+      "repeatable": true,
+      "component": "list.list-get-yours-today"
+    },
+    "btn": {
+      "type": "string"
+    }
+  }
+}

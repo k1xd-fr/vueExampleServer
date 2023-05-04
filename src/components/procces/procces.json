@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_procces_procces",
+  "info": {
+    "displayName": "Procces"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "Procces1": {
+      "type": "integer"
+    },
+    "Procces2": {
+      "type": "integer"
+    },
+    "Procces3": {
+      "type": "integer"
+    }
+  }
+}

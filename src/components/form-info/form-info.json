@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_form_info_form_infos",
+  "info": {
+    "displayName": "FormInfo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

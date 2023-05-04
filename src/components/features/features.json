@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_features_features",
+  "info": {
+    "displayName": "features",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "featuresCards": {
+      "displayName": "featuresCards",
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.features-cards"
+    },
+    "List": {
+      "displayName": "List",
+      "type": "component",
+      "repeatable": true,
+      "component": "list.list"
+    },
+    "span": {
+      "type": "string"
+    }
+  }
+}

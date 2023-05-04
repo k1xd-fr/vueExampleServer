@@ -1,0 +1,33 @@
+{
+  "collectionName": "components_wrappere_main_wrappers",
+  "info": {
+    "displayName": "MainWrapper",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "img": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "btn": {
+      "type": "string"
+    },
+    "span": {
+      "type": "string"
+    }
+  }
+}

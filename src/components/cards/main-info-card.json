@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_cards_main_info_cards",
+  "info": {
+    "displayName": "MainInfoCard",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}

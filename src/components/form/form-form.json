@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_form_form_forms",
+  "info": {
+    "displayName": "FormForm"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "email": {
+      "type": "email"
+    },
+    "btn": {
+      "type": "string"
+    }
+  }
+}

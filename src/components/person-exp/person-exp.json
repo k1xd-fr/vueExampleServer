@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_person_exp_person_exps",
+  "info": {
+    "displayName": "personExp",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "personExpCard": {
+      "displayName": "personExpCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.person-exp-card"
+    },
+    "span": {
+      "type": "string"
+    }
+  }
+}

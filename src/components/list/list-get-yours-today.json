@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_list_list_get_yours_todays",
+  "info": {
+    "displayName": "ListGetYoursToday",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "list1": {
+      "type": "string"
+    },
+    "list2": {
+      "type": "string"
+    },
+    "list3": {
+      "type": "string"
+    }
+  }
+}

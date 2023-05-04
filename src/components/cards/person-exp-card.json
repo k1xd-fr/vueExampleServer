@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_cards_person_exp_cards",
+  "info": {
+    "displayName": "personExpCard"
+  },
+  "options": {},
+  "attributes": {
+    "img": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    },
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
+}

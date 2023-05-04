@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_cards_our_way_cards",
+  "info": {
+    "displayName": "OurWayCard"
+  },
+  "options": {},
+  "attributes": {
+    "num": {
+      "type": "biginteger"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

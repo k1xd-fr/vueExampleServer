@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_get_free_consultation_get_free_consultations",
+  "info": {
+    "displayName": "GetFreeConsultation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_form_forms",
+  "info": {
+    "displayName": "Form",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Contact": {
+      "displayName": "contact",
+      "type": "component",
+      "repeatable": true,
+      "component": "contact.contact"
+    },
+    "FormInfo": {
+      "displayName": "FormInfo",
+      "type": "component",
+      "repeatable": false,
+      "component": "form-info.form-info"
+    },
+    "Form": {
+      "displayName": "FormForm",
+      "type": "component",
+      "repeatable": false,
+      "component": "form.form-form"
+    }
+  }
+}

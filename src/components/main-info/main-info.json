@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_main_info_main_infos",
+  "info": {
+    "displayName": "MainInfo",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "MainInfoCard": {
+      "displayName": "MainInfoCard",
+      "type": "component",
+      "repeatable": true,
+      "component": "cards.main-info-card"
+    },
+    "btn": {
+      "type": "string"
+    },
+    "span": {
+      "type": "string"
+    }
+  }
+}
